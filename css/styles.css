@@ -990,12 +990,5 @@ img {
 
 .btn-agree:focus,
 .btn-agree:hover {
-  cursor: pointer;
-  background-color: var(--color-blue);
-  border: 1px solid var(--color-blue);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  transition: background-color 250ms var(--timing-function-hover),
-    border var(--time) var(--timing-function-hover),
-    box-shadow var(--time) var(--timing-function-hover);
+  background-color: #188ce8;
 }
