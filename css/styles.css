@@ -900,6 +900,7 @@ img {
   align-items: center;
   padding-left: 11px;
   margin-bottom: 30px;
+  color: var(--title-item);
 }
 
 .checkbox {
@@ -940,7 +941,6 @@ img {
   font-size: 14px;
   line-height: 1.7143;
   letter-spacing: 0.03em;
-  color: (var(--title-item));
 }
 
 .checkbox-link {
