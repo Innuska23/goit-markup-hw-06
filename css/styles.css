@@ -443,8 +443,7 @@ img {
   transition-timing-function: var(--timing-function-hover);
 }
 
-.email {
-  margin-top: 9px;
+.adress-item:not(:last-child) {
   margin-bottom: 9px;
 }
 
